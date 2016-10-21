@@ -5,55 +5,58 @@ body {
 h2 {
 position: absolute;
 top:10px;
-left: 20px;
+left: 15px;
 z-index: 8888;
 display: inline-block;
-font-size: 29px;
+font-size: 23px;
 margin: 0;
 }
 .trim {
   position: absolute;
   top: 25px;
-  left: 20px;
+  left: 12px;
+  font-size: 14px;
 }
 .description {
   position: absolute;
-  top: 665px;
-  left: 76px;
+  top: 625px;
+  left: 45px;
   z-index: 8888;
 }
 .price {
   margin: 0;
   position: absolute;
   left: 30px;
-  font-size: 75px;
+  font-size: 55px;
   font-weight:bold;
-  top: 285px;
+  top: 255px;
 }
 .msrp {
   margin: 0;
   position: absolute;
-  left: 179px;
-  top: 365px;
+  left: 149px;
+  top: 325px;
+  font-size: 14px;
 }
 .mileage {
   margin: 0;
   position: absolute;
-  top: 365px;
+  top: 325px;
   left: 30px;
+  font-size: 14px;
 }
 .modelCode {
   position: absolute;
-  top: 645px;
-  left: 93px;
+  top: 605px;
+  left: 60px;
   z-index: 8888;
 }
 a {
   color: #ffffff;
   background-color: #20609F;
   font-size: 18px;
-  padding: 10px 56px;
-  top: 730px;
+  padding: 10px 18px;
+  top: 679px;
   left:10px;
   position: absolute;
   text-decoration: none;
@@ -65,14 +68,15 @@ a:hover {
 #slideshow {
     margin: 50px 0;
     position: relative;
-    width: 320px;
-    height: 760px;
-    padding: 10px;
+    width: 270px;
+    height: 733px;
+    padding:0px;
     box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 .slideshowImg {
-  width: 320px;
+  width: 270px;
   padding-top: 60px;
+  margin-left: -10px;
 }
 
 #slideshow > div {
@@ -85,9 +89,9 @@ a:hover {
 #slideshow2 {
     margin: 50px 0;
     position: relative;
-    width: 320px;
-    height: 760px;
-    padding: 10px;
+    width: 270px;
+    height: 733px;
+    padding:0px;
     box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 #slideshow2 > div {
@@ -100,9 +104,9 @@ a:hover {
 #slideshow3 {
     margin: 50px 0;
     position: relative;
-    width: 320px;
-    height: 760px;
-    padding: 10px;
+    width: 270px;
+    height: 733px;
+    padding: 0px;
     box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 #slideshow3 > div {
@@ -115,8 +119,8 @@ a:hover {
 #slideshow4 {
     margin: 50px 0;
     position: relative;
-    width: 320px;
-    height: 760px;
+    width: 270px;
+    height: 733px;
     padding: 10px;
     box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
@@ -130,9 +134,9 @@ a:hover {
 #slideshow5 {
     margin: 50px 0;
     position: relative;
-    width: 320px;
-    height: 760px;
-    padding: 10px;
+    width: 270px;
+    height: 733px;
+    padding: 0px;
     box-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 #slideshow5 > div {
@@ -146,64 +150,64 @@ a:hover {
   position: absolute;
   left: 30px;
   width: 40px;
-  top: 400px;
+  top: 360px;
 }
 .featureInfo {
   position: absolute;
   left: 80px;
-  top: 406px;
+  top: 366px;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 .featureImg2 {
   position: absolute;
   left: 30px;
   width: 40px;
-  top: 450px;
+  top: 410px;
 }
 .featureInfo2 {
   position: absolute;
   left: 80px;
-  top: 456px;
+  top: 416px;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 .featureImg3 {
   position: absolute;
   left: 30px;
   width: 40px;
-  top: 502px;
+  top: 462px;
 }
 .featureInfo3 {
   position: absolute;
   left: 80px;
-  top: 508px;
+  top: 468px;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 .featureImg4 {
   position: absolute;
   left: 30px;
   width: 40px;
-  top: 555px;
+  top: 515px;
 }
 .featureInfo4 {
   position: absolute;
   left: 80px;
-  top: 556px;
+  top: 516px;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 .featureImg5 {
   position: absolute;
   left: 30px;
   width: 40px;
-  top: 600px;
+  top: 560px;
 }
 .featureInfo5 {
   position: absolute;
   left: 80px;
-  top: 600px;
+  top: 560px;
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
 }
