@@ -210,3 +210,25 @@ a:hover {
   margin: 0;
   font-size: 14px;
 }
+.featureInfo6 {
+  position: absolute;
+  left: 80px;
+  top: 560px;
+  margin: 0;
+  font-size: 14px;
+}
+#slideshow6 {
+    margin: 50px 0;
+    position: relative;
+    width: 270px;
+    height: 733px;
+    padding: 0px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.4);
+}
+#slideshow6 > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
